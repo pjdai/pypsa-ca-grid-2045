@@ -1,0 +1,22 @@
+Carrier,co2_emissions,source_current,unit_note
+geothermal,0.04,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+biomass,0.0,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+coal,0.345,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+CCGT,0.181,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+oil,0.349,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+OCGT,0.181,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+waste,0.102,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+hydrogen_ct,0.0,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+CCGT-95CCS,0.009050000000000008,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+nuclear,0.0,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+hydro,0.0,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+offwind_floating,0.0,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+onwind,0.0,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+solar,0.0,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+AC,0.0,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+battery,0.0,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+DC,0.0,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+AC_exp,0.0,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+4hr_battery_storage,0.0,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+8hr_battery_storage,0.0,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.
+demand_response,0.0,PyPSA-USA carrier table from final 2045 baseline network,PyPSA convention is usually tCO2/MWh thermal or carrier-specific primary-energy intensity. Verify before final report.

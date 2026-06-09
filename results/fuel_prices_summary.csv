@@ -1,0 +1,104 @@
+file,path,column,mean,min,max,count
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Alabama,10.02279343729548,8.237232289950576,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Alaska,23.00566450768432,22.27347611202636,23.36079077429984,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Arizona,10.003204621877185,8.237232289950576,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Arkansas,9.941549502380898,8.237232289950576,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,California,11.924804224684616,9.489291598023064,16.44151565074135,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Colorado,10.02279343729548,8.237232289950576,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Connecticut,11.873801087766017,7.149917627677101,23.525535420098848,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Delaware,10.02279343729548,8.237232289950576,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Florida,12.231184130351382,9.851729818780887,16.507413509060957,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Georgia,9.848660603461893,8.336079077429984,12.981878088962109,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Idaho,16.835458464038275,7.413509060955519,71.23558484349259,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Illinois,10.65279501703866,8.500823723228995,16.243822075782536,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Indiana,9.095348784726141,7.248764415156508,11.367380560131796,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Iowa,9.732120692378869,7.446457990115321,24.41515650741351,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Kansas,10.243235314030375,6.655683690280066,18.31960461285008,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Kentucky,10.02279343729548,8.237232289950576,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Louisiana,10.02279343729548,8.237232289950576,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Maine,10.02279343729548,8.237232289950576,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Maryland,10.635192164473834,8.039538714991762,17.825370675453048,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Massachusetts,14.690347769176954,7.808896210873146,30.082372322899506,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Michigan,9.158538511881925,7.380560131795717,11.69686985172982,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Minnesota,10.02279343729548,8.237232289950576,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Mississippi,10.02279343729548,8.237232289950576,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Missouri,9.925300715397983,8.237232289950576,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Montana,9.810114869896866,7.512355848434926,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Nebraska,11.340118706416014,8.665568369028007,14.332784184514002,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Nevada,10.854370246665612,7.907742998352553,16.902800658978585,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,New Hampshire,10.02279343729548,8.237232289950576,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,New Jersey,9.699442576335446,7.973640856672158,15.090609555189456,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,New Mexico,4.672970594209113,1.5485996705107083,8.962108731466227,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,New York,10.298661731849881,6.754530477759473,19.110378912685334,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,North Carolina,12.19670059353208,10.411861614497528,16.14497528830313,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,North Dakota,11.14766085170725,6.919275123558484,19.110378912685334,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Ohio,8.510302182302363,6.556836902800659,11.30148270181219,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Oklahoma,10.02279343729548,8.237232289950576,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Oregon,10.02279343729548,8.237232289950576,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Pennsylvania,8.090902936065536,5.56836902800659,12.12520593080725,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Rhode Island,10.999435806007538,7.116968698517298,24.909390444810544,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,South Carolina,10.862404369118279,9.654036243822077,13.838550247116968,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,South Dakota,8.803502516305205,6.952224052718287,13.805601317957166,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Tennessee,9.492360813342062,8.237232289950576,11.663920922570016,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Texas,8.00568707544402,6.952224052718287,10.345963756177923,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,U.S.,10.02279343729548,8.237232289950576,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Utah,10.525603123377943,7.644151565074135,18.088962108731465,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Vermont,10.02279343729548,8.237232289950576,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Virginia,10.547809798921262,7.841845140032949,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Washington,10.02279343729548,8.237232289950576,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,West Virginia,9.779964342939676,6.556836902800659,13.70675453047776,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Wisconsin,9.630656044774435,8.039538714991762,12.191103789126853,8760
+state_ng_power_prices,resources\Run2045\western\state_ng_power_prices.csv,Wyoming,10.019272866782515,8.171334431630973,13.70675453047776,8760
+ba_ng_power_prices,resources\Run2045\western\ba_ng_power_prices.csv,AZPS,6.165968770662101,1.2410545454545454,12.407442818181815,8760
+ba_ng_power_prices,resources\Run2045\western\ba_ng_power_prices.csv,BANCSMUD,13.344951443904595,8.3138244,15.558273466666666,8760
+ba_ng_power_prices,resources\Run2045\western\ba_ng_power_prices.csv,BCHA,19.59484587762557,3.135601875,547.0878700000001,8760
+ba_ng_power_prices,resources\Run2045\western\ba_ng_power_prices.csv,CISO,17.0870805156158,8.513444224489795,64.90861786111111,8760
+ba_ng_power_prices,resources\Run2045\western\ba_ng_power_prices.csv,IPCO,12.984104031012178,3.663179333333333,198.98344633333332,8760
+ba_ng_power_prices,resources\Run2045\western\ba_ng_power_prices.csv,NEVP,10.333901988378996,4.3207314000000006,55.25257573333334,8760
+ba_ng_power_prices,resources\Run2045\western\ba_ng_power_prices.csv,PACE,9.896269444663242,3.43849675,53.95226083333333,8760
+ba_ng_power_prices,resources\Run2045\western\ba_ng_power_prices.csv,PACW,13.182528842237444,3.0261046666666664,209.56343633333336,8760
+ba_ng_power_prices,resources\Run2045\western\ba_ng_power_prices.csv,PGE,12.079585533561644,3.801117375,151.30238925,8760
+ba_ng_power_prices,resources\Run2045\western\ba_ng_power_prices.csv,PSEI,18.914178815867576,3.592646066666666,467.5673,8760
+ba_ng_power_prices,resources\Run2045\western\ba_ng_power_prices.csv,CISO-PGAE,17.0870805156158,8.513444224489795,64.90861786111111,8760
+ba_ng_power_prices,resources\Run2045\western\ba_ng_power_prices.csv,CISO-SCE,17.0870805156158,8.513444224489795,64.90861786111111,8760
+ba_ng_power_prices,resources\Run2045\western\ba_ng_power_prices.csv,CISO-SDGE,17.0870805156158,8.513444224489795,64.90861786111111,8760
+ba_ng_power_prices,resources\Run2045\western\ba_ng_power_prices.csv,CISO-VEA,17.0870805156158,8.513444224489795,64.90861786111111,8760
+ba_ng_power_prices,resources\Run2045\western\ba_ng_power_prices.csv,Arizona,6.165968770662101,1.2410545454545454,12.407442818181815,8760
+ba_ng_power_prices,resources\Run2045\western\ba_ng_power_prices.csv,BANC,13.344951443904595,8.3138244,15.558273466666666,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Alabama,0.8248410025661888,0.8101881262260001,0.8494709465160002,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Alaska,0.8064959584369317,0.762888403836,0.8360025509880001,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Arizona,0.7442244103401184,0.709976849976,0.7615736318916001,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Arkansas,0.551262152730936,0.531226656153,0.574865326584,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Colorado,0.4636871240720061,0.444768820839,0.4744723338864,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Florida,1.0271258778863814,0.9967681611,1.038867900716118,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Georgia,0.975498103435074,0.9166067752448572,1.000536105087,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Illinois,0.577234480655864,0.5107167482805001,0.684002087172,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Indiana,0.826512207033373,0.8075959945469999,0.8469480765082041,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Iowa,0.4619421841692606,0.4518381312540001,0.46730245896,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Kansas,0.47582784761909735,0.4592944881567692,0.5029918904712858,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Kentucky,0.7228962650860604,0.7019325730883416,0.745562904381757,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Louisiana,0.711565660866156,0.696294670392,0.7333174878042857,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Michigan,0.6426540455444197,0.6308920195457144,0.66111864181776,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Minnesota,0.590212815665569,0.5751034042827273,0.6132806769544616,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Mississippi,1.0447214989557332,0.7313018095620001,1.2193307248995,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Missouri,0.5137136768450469,0.4972296466476,0.536502965424,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Montana,0.4141527232036931,0.401486457168,0.41928397983,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Nebraska,0.364879734929497,0.35817737049,0.3691836863064,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Nevada,0.9236827137253807,0.8937242461080002,0.962108421021,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,New Hampshire,1.308037746636,1.308037746636,1.308037746636,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,New Mexico,0.7198033023253481,0.691484529132,0.7426858105440001,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,North Carolina,1.1260291119718502,1.0431383875943478,1.2943836965330529,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,North Dakota,0.4927096722694789,0.391545498564,0.7677443559651429,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Ohio,0.8003842090589934,0.7763567993640001,0.8126573320728,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Oklahoma,0.5011852959643168,0.479704698657,0.5220285971436001,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Oregon,0.6246330834013151,0.599183262954,0.648888055974,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,South Carolina,1.2789862505548277,1.2389520927892503,1.3506275390422502,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,South Dakota,0.48214740113795346,0.446060432844,0.5198159321640001,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Tennessee,0.7853249380139952,0.7445350426284001,0.8133093734436,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Texas,0.4948991027467479,0.4728279781890001,0.5050479546113684,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,U.S.,0.7094391587442439,0.698400411878718,0.719081023398015,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Utah,0.7194656519224655,0.7066220847895385,0.7331395301972308,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Virginia,1.0237566044339137,0.8369244947295,1.23433569333,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,West Virginia,0.8974435489101371,0.876690438856579,0.916327328943086,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Wisconsin,0.663186663647752,0.658668676536,0.6708994628023126,8760
+state_coal_power_prices,resources\Run2045\western\state_coal_power_prices.csv,Wyoming,0.40362322277835494,0.3733895732198823,0.4338106064352,8760

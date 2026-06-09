@@ -1,0 +1,40 @@
+# Third-party dependencies inferred from imports across all .py scripts.
+# Versions are unpinned — pin them once you confirm a working environment.
+# (Standard-library and project-local modules are intentionally excluded.)
+
+# Core power-system modeling
+pypsa
+atlite
+linopy
+pyomo
+
+# Scientific / data
+numpy
+pandas
+scipy
+xarray
+scikit-learn
+dask
+
+# Geospatial
+geopandas
+shapely
+cartopy
+
+# Plotting
+matplotlib
+seaborn
+plotly
+adjustText
+
+# Data access / IO
+requests
+urllib3
+duckdb
+dill
+PyYAML
+progressbar2
+
+# Workflow / testing
+snakemake
+pytest

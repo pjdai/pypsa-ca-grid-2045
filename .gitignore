@@ -1,0 +1,22 @@
+# NetCDF network/results files (large, regenerable)
+*.nc
+
+# Python bytecode cache
+__pycache__/
+
+# macOS metadata
+.DS_Store
+
+# Report document (handled separately, not version-controlled)
+*.docx
+
+# Jupyter notebooks (large embedded outputs)
+*.ipynb
+
+# Large demand input data (contains the 269 MB power_electricity.csv)
+Run2045_Moderate_GoDEEEP_hourly/western/demand/
+
+# NOTE: .gitignore cannot filter by file size. The only file in this project
+# over 50 MB is Run2045_Moderate_GoDEEEP_hourly/western/demand/power_electricity.csv,
+# which is already excluded by the rule above. If you add new large files,
+# either list them here explicitly or track them with Git LFS.
